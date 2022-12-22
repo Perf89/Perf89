@@ -2,7 +2,7 @@
 - 👀 I’m interested in node testing, blockchain technology
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on node launch
-- 📫 How to reach me [...](https://twitter.com/anton_CHUCH) [...](jessepinkmans88@gmail.com) 
+- 📫 How to reach me [...](https://twitter.com/anton_CHUCH)Twitter [...](jessepinkmans88@gmail.com) Mail
 
 <!---
 Perf89/Perf89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
