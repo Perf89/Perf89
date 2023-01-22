@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Perf89
+- 👋 Hi, I’m Anton
 - 👀 I’m interested in node testing, blockchain technology
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on node launch
