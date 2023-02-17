@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Anton
 - 👀 I’m interested in node testing, blockchain technology, developer
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on node launch
+- 💞️ I’m looking to collaborate on node launch and validator settings, 
+       looking for problems in your networks  
 - 📫 How to reach me [...](https://twitter.com/anton_CHUCH)Twitter [...](jessepinkmans88@gmail.com) Mail
 
 <!---
